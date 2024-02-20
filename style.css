@@ -1,0 +1,48 @@
+.navfont {
+    font-size: 20px;
+}
+
+.navpclass {
+    position: relative;
+    left: 240px;
+    bottom: 25px;
+}
+
+.navbarplpl {
+    position: relative;
+    top: 20px;
+}
+
+.navbar-brand {
+    position: relative;
+    bottom: 20px;
+}
+
+.navbarbtn {
+    position: absolute;
+    bottom: 20px;
+}
+
+@media (max-width:986px) {
+    .lyp {
+        display: none;
+    }
+
+    .lisunb  {
+        display:none ;
+    }
+}
+
+span {
+    position: relative;
+    top: 4px;
+}
+
+.olol {
+    color: white;
+}
+
+.searchbar {
+    position: relative;
+    top: 25px;
+}
